@@ -12,7 +12,6 @@ Don't forget to run `chmod +x chgpu` before if you have not.
 
 ## Usage
 ```
-chgpu \[<args>\]
-  
+chgpu [<args>]
   args  0=iGPU,1=RadeonGPU,2=Auto
 ```
