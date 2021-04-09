@@ -6,16 +6,16 @@ then
 	then
 		sudo pmset -a GPUSwitch $choose
 	else
-		echo "Ilegal input!"
+		echo "Illegal input!"
 	fi
 else	
 	if [ $1 -ge 0 -a $1 -le 2 ]
 	then
 		sudo pmset -a GPUSwitch $1
 	else
-		echo "Ilegal input!"
-		echo "Usage: chgpu [<command>]"
+		echo "Illegal input!"
+		echo "Usage: chgpu.sh [<command>]"
 		echo -e  "<command> \n 0:iGPU\n 1:RadeonGPU\n 2:Auto"
-		echo -e "Example: tpye \"chgpu 0\" to mandatory use iGPU"
+		echo -e "Example: type \"chgpu.sh 0\" to mandatory use iGPU"
 	fi
 fi
