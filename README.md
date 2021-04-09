@@ -22,7 +22,7 @@ You can run `python3 chgpu.py` if you have installed Python 3. Note that Python 
 
 ### Binary file
 
-You can download and run the binary file `chgpu`. In general, you can double-click it to run it.
+You can download and run the binary file `chgpu`. In general, you can double-click it to run it. It may take a while to load.
 
 ----
 
