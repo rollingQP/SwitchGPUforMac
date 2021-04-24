@@ -8,7 +8,7 @@ The main idea of the script is using `sudo pmset -a GPUSwitch` to switch GPU of 
 
 It's only been tested on MacBook Pro (16 inches，2019).
 
-There are three ways to use the program.
+There are four ways to use the program.
 
 ### Shell Script
 
@@ -23,6 +23,10 @@ You can run `python3 chgpu.py` if you have installed Python 3. Note that Python 
 ### Binary file
 
 You can download and run the binary file `chgpu`. In general, you can double-click it to run it. It may take a while to load.
+
+### GUI binary file
+
+You can download and double click to run the binary file `chgpuGUI`. It's very intuitive, so I don't think you need a tutorial.
 
 ----
 
