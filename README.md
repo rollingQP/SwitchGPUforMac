@@ -26,7 +26,7 @@ You can download and run the binary file `chgpu`. In general, you can double-cli
 
 ### GUI binary file
 
-You can download and double click to run the binary file `chgpuGUI`. It's very intuitive, so I don't think you need a tutorial.
+You can download and double click to run the app `Switch GPU for Mac.app`. If it doesn't work, right click it and then run. It's very intuitive, so I don't think you need a tutorial.
 
 ----
 
