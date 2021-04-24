@@ -2,6 +2,8 @@
 A bash script that can switch GPU types on Mac
 
 ----
+## Attention 注意
+.app文件还未签名，因此可能要自行编译才能用在自己的mac上。编译方法稍后附上。
 
 ## Introduction
 The main idea of the script is using `sudo pmset -a GPUSwitch` to switch GPU of your Mac.
